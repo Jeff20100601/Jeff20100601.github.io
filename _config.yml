@@ -14,7 +14,7 @@ sass:
 plainwhite:
   name: Zhen Han
   tagline: Researcher
-  date_format: "%b %-d, %Y"
+  #date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
