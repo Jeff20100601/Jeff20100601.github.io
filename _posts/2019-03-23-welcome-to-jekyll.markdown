@@ -1,7 +1,6 @@
 ---
 layout: home
 title:  "Home"
-date:   2020-01-09 21:03:36 +0530
 ---
 Greetings! I am a first-year Ph.D. student at the Ludwig Maximilian University of Munich, supervised by Prof. Volker Tresp. I have a background in data analysis & computer vision and
 finished my master’s degree at the Technical University of Munich in 2019 focusing on robotics,
