@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "de-Germany"
-title                    : "Zhen Han"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Home"
 description              : &description "PhD student at LMU Munich"
