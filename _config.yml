@@ -9,7 +9,7 @@
 locale                   : "de-Germany"
 title                    : "Zhen Han"
 title_separator          : "-"
-name                     : &name "Zhen Han"
+name                     : &name "Home"
 description              : &description "PhD student at LMU Munich"
 url                      : https://jeff20100601.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
