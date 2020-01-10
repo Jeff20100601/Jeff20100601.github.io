@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Rui Zhao | 赵瑞"
+locale                   : "de-Germany"
+title                    : "Zhen Han"
 title_separator          : "-"
-name                     : &name "Rui Zhao"
-description              : &description "PhD student at Siemens AG & LMU Munich"
-url                      : https://ruizhaogit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zhen Han"
+description              : &description "PhD student at LMU Munich"
+url                      : https://jeff20100601.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ruizhaogit.github.io"
+repository               : "Jeff20100601.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rui Zhao"
+  name             : "Zhen Han"
   avatar           : "profile.png"
-  bio              : "PhD Student | Machine Learning, Reinforcement Learning, and Robotics"
+  bio              : "Machine Learning Reseacher"
   location         : "Munich, Germany"
   employer         :
-  googlescholar    : "https://scholar.google.de/citations?user=N1yNDnQAAAAJ&hl=en"
-  email            : "zhaorui.in.germany@gmail.com"
+  googlescholar    : #"https://scholar.google.de/citations?user=N1yNDnQAAAAJ&hl=en"
+  email            : "zhen.han@tum.de"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,12 +93,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ruizhaogit"
+  github           : "Jeff20100601"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "rui-zhao-profile"
+  linkedin         : "zhen-han-08a769128"
   orcid            : 
   pinterest        :
   soundcloud       :
