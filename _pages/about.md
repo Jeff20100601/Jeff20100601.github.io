@@ -8,7 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I am a first-year Ph.D. student at the Ludwig Maximilian University of Munich, supervised by Prof. Volker Tresp. I have a background in data analysis & computer vision and finished my master’s degree at the Technical University of Munich in 2019 focusing on robotics, cognition, and intelligence. Prior to the Ph.D. study, I wrote my master’s thesis at the Research Group Machine Intelligence of Siemens Corporate Technology where I worked on deep learning of point processes for reasoning on temporal knolwedge graphs.
-
-My research interests include machine learning for temporal (knowledge) graphs, geometric deep learning and time series analysis. I welcome opportunities for collaboration.
+Zhen Han is a final-year Ph.D. student at the institute of informatics of the University of Munich (LMU Munich). His research interests include machine learning on knowledge graphs, question answering, multi-modal learning, and time-series analysis. He published more than 10 research papers in top conferences and received the AKBC2020 Best Paper Runner Up Award. In 2021, he was been awarded a research grant with a value of 100,000€ from the German Ministry of Education and Research. With this funding, he is leading a research group for learning  knowledge-enhanced foundation models. Prior to LMU Munich, he obtained M.Sc. (2019) from the Technical  University of Munich and B.Sc. (2016) from Karlsruhe Institut of Technology. In 2013, he was awarded a full scholarship from the German Academic Exchange Service, covering all tuition fees and living costs throughout the entire bachelor's and master's study.
 
