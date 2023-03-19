@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "Biography of Zhen Han"
 excerpt: "Biography"
 author_profile: true
 redirect_from: 
